@@ -11,5 +11,5 @@
 
 まだ、改良の余地あり
 
-不具合お問い合わせは[こちら>>https://forms.gle/cfcMhCos5TXdpwjr8]
+不具合お問い合わせは>>https://forms.gle/cfcMhCos5TXdpwjr8
 作成者:Kinoko
